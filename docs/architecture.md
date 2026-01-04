@@ -15,7 +15,7 @@ While this approach works, it introduces a **single point of failure**:
 
 We are moving towards an architecture based on **Micro Frontends combined with Backend for Frontend (BFF)**.
 
-![](image.png)
+![alt text](architecture.png)
 
 ### What is a Micro Frontend?
 
