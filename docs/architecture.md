@@ -15,6 +15,8 @@ While this approach works, it introduces a **single point of failure**:
 
 We are moving towards an architecture based on **Micro Frontends combined with Backend for Frontend (BFF)**.
 
+![](image.png)
+
 ### What is a Micro Frontend?
 
 A **Micro Frontend** is a self-contained part of the user interface that represents a specific business capability, such as:
@@ -122,4 +124,6 @@ By using **Micro Frontends with Backend for Frontend**:
 
 > In simple terms:  
 > **Instead of one large system where one problem affects everything, we build independent features so the rest of the product continues working even if one part fails.**
+
+
 
